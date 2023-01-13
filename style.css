@@ -1,0 +1,8 @@
+.black{
+    position: relative;
+    height: 400px;
+    width: 50%;
+    top: 200px;
+    backdrop-filter : blur(8px);
+    padding: 10% 10% 10% 10%;
+}
